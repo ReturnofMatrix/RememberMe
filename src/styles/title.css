@@ -1,4 +1,10 @@
 .title{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+}
+.scoreCard{
+    position: absolute;
+    right: 20px;
 }
